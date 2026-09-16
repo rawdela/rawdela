@@ -80,7 +80,7 @@ A self-directed, hands-on project series focused on Network Security, Vulnerabil
 
 ##  GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rawdela)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rawdela&theme=dark" alt="GitHub Streak" /></a>
 
 ---
 
