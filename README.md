@@ -4,10 +4,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rawdela&color=00FF00" alt="Profile Views" />
-</p>
-
 > If you're reading this in light mode, we need to talk. :|
 
 ---
