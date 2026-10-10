@@ -76,7 +76,14 @@ A self-directed, hands-on project series focused on Network Security, Vulnerabil
 
 ##  GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rawdela)](https://git.io/streak-stats) 
+![](https://github-readme-stats.shion.dev/api?username=rawdela&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=rawdela&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=rawdela&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=rawdela&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 
